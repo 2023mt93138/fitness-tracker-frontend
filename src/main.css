@@ -1,0 +1,24 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  margin: 0px;
+}
+
+.Mui-selected {
+  color: green !important;
+}
+
+.css-1aquho2-MuiTabs-indicator {
+  background-color: green !important;
+}
+
+.css-1bl9gvt-MuiButtonBase-root-MuiTab-root {
+  text-transform: capitalize !important;
+}
+
+.css-1k23hlb-MuiButtonBase-root-MuiButton-root {
+  color: green !important;
+  border-color: green !important;
+}
